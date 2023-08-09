@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Resource 1",
+        "description": "Description of Resource 1",
+        "url": "https://example.com/resource1"
+    },
+    {
+        "name": "Resource 2",
+        "description": "Description of Resource 2",
+        "url": "https://example.com/resource2"
+    }
+    // Add more resources as needed
+]
